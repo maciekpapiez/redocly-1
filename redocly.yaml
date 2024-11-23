@@ -11,6 +11,7 @@ openapi:
         label: 'JS'
       - lang: 'Go'
       - lang: 'Java'
+        label: 'The best one'
       - lang: 'C#'
 
 ignore:
