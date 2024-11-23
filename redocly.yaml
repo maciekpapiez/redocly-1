@@ -13,6 +13,8 @@ openapi:
       - lang: 'Java'
         label: 'The best one'
       - lang: 'C#'
+  feedback:
+    type: comment
 
 ignore:
   - CONTRIBUTING.md
